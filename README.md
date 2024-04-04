@@ -11,11 +11,11 @@ extract relevant features, and make accurate predictions or classifications base
 - To evaluate the models' performance and optimize for high accuracy and efficiency.
 
 ## Technologies and Libraries Used
-- Programming Language:** Python 3.x
-- Image Processing:** OpenCV, PIL
-- Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
-- Data Handling:** NumPy, pandas
-- Visualization:** Matplotlib, seaborn
+- Programming Language: Python 3.x
+- Image Processing: OpenCV, PIL
+- Machine Learning Frameworks:TensorFlow, Keras, PyTorch
+- Data Handling: NumPy, pandas
+- Visualization: Matplotlib, seaborn
 
 ## Getting Started
 
